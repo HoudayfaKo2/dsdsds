@@ -1,0 +1,52 @@
+@import url('https://fonts.cdnfonts.com/css/flama-bold');
+
+.font {
+ font-family: 'Flama Bold', sans-serif;
+}
+
+
+
+body {
+
+}
+
+.offre {
+}
+
+li {
+    padding:  5px 0 !important;
+}
+
+.diva {
+    background-color: white;
+
+}
+
+.haha {
+    height: 400px;
+}
+
+@media screen and (max-width:480px) {
+    .oki {
+        font-size: 20px !important;
+    }
+
+    .offre {
+        height: 150px !important;
+    }
+}
+
+.env {
+    color: white;
+    font-size: 65px;
+}
+
+
+body, html {
+    height: 100% !important;
+}
+
+.para {
+    max-width: 500px;
+    color: rgba(255, 255, 255, 0.644);
+}
